@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae49cb54ae45ae41b86de16bbd53de7, type: 3}
+  m_Name: STAGE_1_1
+  m_EditorClassIdentifier: 
+  levelName: CURRENT_STAGE_1_1
+  row: 3
+  col: 3
+  winColor: 0
+  cellData:
+  - moves: 1
+    color: 0
+    gridPos: {x: 1, y: 1}
+  - moves: 0
+    color: 1
+    gridPos: {x: 2, y: 1}
